@@ -1,0 +1,16 @@
+.login {
+  &__wrapper {
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 64px);
+  }
+  &__main {
+    max-width: 400px;
+    background-color: lightgray;
+  }
+  &__button {
+    color:darkblue;
+    border-color: darkblue;
+  }
+
+}
